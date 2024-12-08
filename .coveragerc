@@ -1,0 +1,5 @@
+[run]
+source = eng_vowels
+
+[report]
+omit = __init__.py
